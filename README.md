@@ -35,20 +35,62 @@ The project also includes an admin dashboard concept for managing restaurant pro
 - Order list and order details
 - Reservation management
 
-## 🎨 Design Tool
-
-- Figma
-
 ## 🤝 Collaboration and Contributions
 
 This project was developed collaboratively by two people.
 
 My contribution focused on developing the project ideas and participating in the design process. Specific responsibilities and contributions should be documented according to the work completed by each team member.
 
-## 📱 UI/UX Screenshots
+## 👤 Customer Website
 
-Screenshots of the customer interface and admin dashboard will be added here.
+### Home
+![User Home](<./User Home 1.png>)
+
+### Menu
+![Menu 2](<./user menu 2.png>)
+![Menu 3](<./User menu 3.png>)
+
+### Product Details
+![Product Details](<./User Detail 4.png>)
+
+### Order
+![Order](<./User order.png>)
+
+### Promotion
+![Promotion](<./User Promo.png>)
+
+### Payment
+![Payment](<./User Payment.png>)
+
+### Reservation
+![Reservation](<./User Reservasi.png>)
+
+### Footer
+![Footer](<./Footer User.png>)
+
+---
+
+## 🛠️ Admin Dashboard
+
+![Admin Login](<./Admin 1.png>)
+![Admin Dashboard](<./Admin 2.png>)
+![Admin Food Management](<./Admin 3.png>)
+![Admin Screen 4](<./Admin 4.png>)
+![Admin Screen 5](<./Admin 5.png>)
+![Admin Screen 6](<./Admin 6.png>)
+![Admin Screen 7](<./Admin 7.png>)
+![Admin Screen 8](<./Admin 8.png>)
+![Admin Screen 9](<./Admin 9.png>)
+![Admin Screen 10](<./Admin 10.png>)
+![Admin Screen 11](<./Admin 11.png>)
+![Admin Screen 12](<./Admin 12.png>)
+![Admin Screen 13](<./Admin 13.png>)
+![Admin Screen 14](<./Admin 14.png>)
+
+## 🎨 Design Tool
+
+Figma
 
 ## 📌 Project Status
 
-UI/UX Design Concept. The designs document the intended interfaces and user flows; they do not necessarily represent a fully implemented or deployed restaurant system.
+UI/UX Design Concept — Collaborative Project. The designs document the intended interfaces and user flows; they do not necessarily represent a fully implemented or deployed restaurant system.
